@@ -1,4 +1,5 @@
-import { StyleSheet, Text, View } from 'react-native'
+// Import your global CSS file
+import "../global.css";
 import React from 'react'
 import { Slot } from 'expo-router'
 
